@@ -1,0 +1,2 @@
+# Calestial-mamaki
+Testnet node
